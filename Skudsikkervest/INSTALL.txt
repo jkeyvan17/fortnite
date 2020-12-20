@@ -1,0 +1,5 @@
+Install:
+Mods -> update -> update.rpf -> x64 -> eup -> eup_componentpeds.rpf -> the folder name
+
+INSTALL THEM ALL.
+THERE ARE MANY FILES BECAUSE THEY ARE IN DIFFERENT SIZES...
